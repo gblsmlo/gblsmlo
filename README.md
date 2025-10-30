@@ -1,34 +1,52 @@
-## Gabriel Melo 👋
+👋 Hi there! I'm Gabriel Melo
 
-Frontend Developer with a background in design and product management. I create digital solutions with attention to performance, accessibility, and 
-maintainable code. Passionate about solving real problems through technology and collaboration.
+I'm a Frontend Developer passionate about creating high-performance web interfaces with React, Next.js, and TypeScript.
+Over the years, I’ve worked across design, development, and product management, helping teams deliver scalable and accessible digital experiences.
 
-## Tech Stacks
+I’m driven by code quality, maintainability, and collaboration — turning complex ideas into intuitive interfaces.
 
-<div style="display:flex; gap: 16px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="32px" style="margin-left: 12px;"/>
-  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30px" style="margin-left: 12px;"/>
-  <img alt="PostCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postcss/postcss-original.svg" width="26px" style="margin-left: 12px;"/>
-  <img alt="Tailwindcss" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="margin-left: 12px;" />
-  <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="margin-left: 12px;" />
-  <img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin-left: 12px;" />
-  <img alt="pnpm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" style="margin-left: 12px;" />
-  <img alt="Vite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="margin-left: 12px;" />
-  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-left: 12px;" />
-  <img alt="NextJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="margin-left: 12px;" />
-  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-left: 12px;" />
-  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin-left: 12px;" />
-  <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="margin-left: 12px;" />
-  <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="margin-left: 12px;" />
-  <img alt="Fedora" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" style="margin-left: 12px;" />
-</div>
+📍 Based in Brazil
+📧 gblsmlo@gmail.com
 
-## Works
+🌐 [gabrielmelo.me](https://www.gabrielmelo.me/)
 
-## Currently working
+💼 [LinkedIn](https://www.linkedin.com/in/gabsmelo/)
 
-## Currently learning
+🐙 GitHub
+
+## ⚙️ Tech Stacks
+
+Main:
+
+React.js • Next.js • TypeScript • Node.js
+
+TailwindCSS • Styled Components • REST
+
+Tooling & Practices:
+
+Git • CI/CD • Agile • Accessibility • SEO Optimization
+
+Testing (Jest, React Testing Library)
+
+## 💼 Works
+
+Frontend Developer — Sala7Design
+Focused on building responsive and SEO-optimized interfaces.
+Implemented design systems, improved performance, and collaborated closely with designers and PMs to ensure consistent user experience.
+
+Freelance Projects
+Delivered landing pages and WordPress themes for diverse clients, focusing on maintainable architecture and clean code.
+
+## 🚀 Currently Working On
+
+A [Legal SaaS](https://github.com/gblsmlo/legalmind-web) platform that automates case deadline management for law firms.
+Focused on validation and early product feedback, currently building the first MVP version without external integrations.
+
+## 📚 Currently Learning
+
+Artificial Intelligence for Frontend Developers
+Exploring Prompt Engineering, LLM integration, and AI-assisted workflows in React and Node.js.
+Experimenting with real-world applications of Few-Shot Learning and Zero-Shot reasoning.
 
 ## Stats
 
