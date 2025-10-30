@@ -3,16 +3,10 @@
 I'm a Frontend Developer passionate about creating high-performance web interfaces with React, Next.js, and TypeScript.
 Over the years, I’ve worked across design, development, and product management, helping teams deliver scalable and accessible digital experiences.
 
-I’m driven by code quality, maintainability, and collaboration — turning complex ideas into intuitive interfaces.
+I’m driven by code quality, maintainability, and collaboration, turning complex ideas into intuitive interfaces.
 
-📍 Based in Brazil
-📧 gblsmlo@gmail.com
+📍 Based in Brazil | 📧 gblsmlo@gmail.com | 🌐 [gabrielmelo.me](https://www.gabrielmelo.me/) | 💼 [LinkedIn](https://www.linkedin.com/in/gabsmelo/)
 
-🌐 [gabrielmelo.me](https://www.gabrielmelo.me/)
-
-💼 [LinkedIn](https://www.linkedin.com/in/gabsmelo/)
-
-🐙 GitHub
 
 ## ⚙️ Tech Stacks
 
