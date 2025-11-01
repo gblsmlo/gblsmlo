@@ -10,8 +10,6 @@ I’m driven by code quality, maintainability, and collaboration, turning comple
 
 ## ⚙️ Tech Stacks
 
-Main:
-
 React.js • Next.js • TypeScript • Node.js
 
 TailwindCSS • Styled Components • REST
@@ -20,7 +18,7 @@ Tooling & Practices:
 
 Git • CI/CD • Agile • Accessibility • SEO Optimization
 
-Testing (Jest, React Testing Library)
+Testing (Vitest, React Testing Library)
 
 ## 💼 Works
 
